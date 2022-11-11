@@ -12,7 +12,7 @@ Just write us on the [PureScript Discord Chat](https://purescript.org/chat).
 ## Data types
 * 📀 [record-studio](https://github.com/rowtype-yoga/purescript-record-studio) - Working with records made easy
 * 🎄 [yoga-tree](https://github.com/rowtype-yoga/purescript-yoga-tree) - A data type for representing trees with arbitrary number of children and handy zippers
-* 📲 [yoga-appm](https://github.com/rowtype-yoga/purescript-yoga-appm) - A versatile monad-transformer stack for writing applications. Includes context via `Reader`, error `Variant`s and of course `Aff`
+* 📲 [yoga-om](https://github.com/rowtype-yoga/purescript-yoga-om) - A powerful general purpose type for writing applications. Includes dependency injection via `Reader`, error `Variant`s and of course `Aff`
 * 🧟‍♂️ [yoga-variation](https://github.com/rowtype-yoga/purescript-yoga-variation) - Variant? Validation? Why not both? This lib combines [`variant`](https://github.com/natefaubion/purescript-variant) and [`validation`](https://github.com/purescript/purescript-validation)
 * 💍 [untagged-union](https://github.com/rowtype-yoga/purescript-untagged-union) - A data type for untagged unions
 
