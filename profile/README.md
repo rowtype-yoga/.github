@@ -1,4 +1,4 @@
-# Rowtype Yoga 🧘🏽‍♂️🧘‍♀️🧘🏽‍♂️
+# Rowtype Yoga 🧘🏽‍♂️🧘‍♀️🧘🏿
 
 Open anarcho type-level collective. We develop clean, typesafe and simple libraries for PureScript.
 
