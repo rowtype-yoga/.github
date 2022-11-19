@@ -16,6 +16,10 @@ Just write us on the [PureScript Discord Chat](https://purescript.org/chat).
 * 🕉️ [yoga-om](https://github.com/rowtype-yoga/purescript-yoga-om) - A powerful general purpose type for writing applications. Includes dependency injection via `Reader`, error `Variant`s and of course `Aff`
 * 🧟‍♂️ [yoga-variation](https://github.com/rowtype-yoga/purescript-yoga-variation) - Variant? Validation? Why not both? This lib combines [`variant`](https://github.com/natefaubion/purescript-variant) and [`validation`](https://github.com/purescript/purescript-validation)
 * 💍 [untagged-union](https://github.com/rowtype-yoga/purescript-untagged-union) - A data type for untagged unions
+* 👰🏽‍♀️ [untagged-to-tagged](https://github.com/rowtype-yoga/purescript-untagged-to-tagged) - Convert between tagged and untagged unions
+
+## Util
+* 🦥 [lazy-joe](https://github.com/rowtype-yoga/purescript-lazy-joe) - Purescript ffi for the lazy joe
 
 ## Databases
 * 💾 [yoga-postgres](https://github.com/rowtype-yoga/purescript-yoga-postgres) - `node-postgres` FFI bindings, originally forked from [`purescript-node-postgres`](https://github.com/epost/purescript-node-postgres)
