@@ -32,7 +32,7 @@ We extensively use react and created a couple of libraries to make PureScript wo
 * ⏭️ [nextjs](http://github.com/rowtype-yoga/purescript-nextjs) - PureScript FFI bindings for [Next.JS](https://nextjs.org/)
 * 💅🏽 [nextui](https://github.com/rowtype-yoga/purescript-nextui) - PureScript FFI bindings for [NextUI](https://nextui.org/)
 
-# Others
+# Apps
 * 🤖 [royo](https://github.com/rowtype-yoga/royo) - Our PureScript compile bot for Discord
 
 # Deprecated
