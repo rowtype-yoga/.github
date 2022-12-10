@@ -20,6 +20,8 @@ Just write us on the [PureScript Discord Chat](https://purescript.org/chat).
 
 ## Util
 * 🦥 [lazy-joe](https://github.com/rowtype-yoga/purescript-lazy-joe) - Purescript ffi for the lazy joe
+* 📥 [parsing-dataview](https://github.com/rowtype-yoga/purescript-parsing-dataview) Parse input binary `ArrayBuffer`. Inverse of [arraybuffer-builder](https://github.com/rowtype-yoga/purescript-arraybuffer-builder).
+* 📤 [arraybuffer-builder](https://github.com/rowtype-yoga/purescript-arraybuffer-builder) Build output binary `ArrayBuffer`. Inverse of [parsing-dataview](https://github.com/rowtype-yoga/purescript-parsing-dataview).
 
 ## Databases
 * 💾 [yoga-postgres](https://github.com/rowtype-yoga/purescript-yoga-postgres) - `node-postgres` FFI bindings, originally forked from [`purescript-node-postgres`](https://github.com/epost/purescript-node-postgres)
