@@ -32,6 +32,7 @@ We extensively use react and created a couple of libraries to make PureScript wo
 * 📖 [react-basic-storybook](https://github.com/rowtype-yoga/purescript-react-basic-storybook) - PureScript FFI bindings for [Storybook](https://storybook.js.org/)
 * ⏭️ [nextjs](http://github.com/rowtype-yoga/purescript-nextjs) - PureScript FFI bindings for [Next.JS](https://nextjs.org/)
 * 💅🏽 [nextui](https://github.com/rowtype-yoga/purescript-nextui) - PureScript FFI bindings for [NextUI](https://nextui.org/)
+* 📄 [react-markdown](https://github.com/rowtype-yoga/purescript-react-markdown) - PureScript FFI bindings for [`react-markdown`](https://github.com/remarkjs/react-markdown). Allows you to render text written in Markdown.
 
 ## Databases
 * 💾 [yoga-postgres](https://github.com/rowtype-yoga/purescript-yoga-postgres) - `node-postgres` FFI bindings, originally forked from [`purescript-node-postgres`](https://github.com/epost/purescript-node-postgres)
