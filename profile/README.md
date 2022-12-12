@@ -25,9 +25,6 @@ Just write us on the [PureScript Discord Chat](https://purescript.org/chat).
 * 📤 [arraybuffer-builder](https://github.com/rowtype-yoga/purescript-arraybuffer-builder) - Build output binary `ArrayBuffer`. Inverse of [parsing-dataview](https://github.com/rowtype-yoga/purescript-parsing-dataview).
 * 🦾 [fallback](https://github.com/rowtype-yoga/purescript-fallback) - Idris-style fallback for do comprehensions.
 
-## Databases
-* 💾 [yoga-postgres](https://github.com/rowtype-yoga/purescript-yoga-postgres) - `node-postgres` FFI bindings, originally forked from [`purescript-node-postgres`](https://github.com/epost/purescript-node-postgres)
-
 ## React
 We extensively use react and created a couple of libraries to make PureScript work with react:
 * 📜 [react-virtuoso](https://github.com/rowtype-yoga/purescript-react-virtuoso) - PureScript FFI bindings for [`react-virtuoso`](https://virtuoso.dev/) virtualised-list library
@@ -35,6 +32,9 @@ We extensively use react and created a couple of libraries to make PureScript wo
 * 📖 [react-basic-storybook](https://github.com/rowtype-yoga/purescript-react-basic-storybook) - PureScript FFI bindings for [Storybook](https://storybook.js.org/)
 * ⏭️ [nextjs](http://github.com/rowtype-yoga/purescript-nextjs) - PureScript FFI bindings for [Next.JS](https://nextjs.org/)
 * 💅🏽 [nextui](https://github.com/rowtype-yoga/purescript-nextui) - PureScript FFI bindings for [NextUI](https://nextui.org/)
+
+## Databases
+* 💾 [yoga-postgres](https://github.com/rowtype-yoga/purescript-yoga-postgres) - `node-postgres` FFI bindings, originally forked from [`purescript-node-postgres`](https://github.com/epost/purescript-node-postgres)
 
 ## Other FFI-bindings
 * 🐙 [octokit](https://github.com/rowtype-yoga/purescript-octokit) - Purescript FFI bindings for Github's [`octokit.js`](https://github.com/octokit/octokit.js)
