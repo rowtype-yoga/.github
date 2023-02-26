@@ -37,9 +37,11 @@ We extensively use react and created a couple of libraries to make PureScript wo
 ## Databases
 * 💾 [yoga-postgres](https://github.com/rowtype-yoga/purescript-yoga-postgres) - `node-postgres` FFI bindings, originally forked from [`purescript-node-postgres`](https://github.com/epost/purescript-node-postgres)
 
+
 ## Other FFI-bindings
 * 🐙 [octokit](https://github.com/rowtype-yoga/purescript-octokit) - Purescript FFI bindings for Github's [`octokit.js`](https://github.com/octokit/octokit.js)
 * 📄 [mdast-util-from-markdown](https://github.com/rowtype-yoga/purescript-mdast-util-from-markdown) - Purescript wrapper for [`mdast-util-from-markdown`](https://github.com/syntax-tree/mdast-util-from-markdown). `mdast-util-from-markdown` allows you to parse markdown into a markdown abstract syntaxt tree.
+* 🦸🏻‍♂️ [supabase](https://github.com/rowtype-yoga/purescript-supabase) Purescript FFI bindings for [`supabase`](https://supabase.com/).
 
 ## Apps
 * 🤖 [royo](https://github.com/rowtype-yoga/royo) - Our PureScript compile bot for Discord
