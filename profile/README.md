@@ -42,8 +42,8 @@ We extensively use react and created a couple of libraries to make PureScript wo
 ## Other FFI-bindings
 * 🐙 [octokit](https://github.com/rowtype-yoga/purescript-octokit) - Purescript FFI bindings for Github's [`octokit.js`](https://github.com/octokit/octokit.js)
 * 📄 [mdast-util-from-markdown](https://github.com/rowtype-yoga/purescript-mdast-util-from-markdown) - Purescript wrapper for [`mdast-util-from-markdown`](https://github.com/syntax-tree/mdast-util-from-markdown). `mdast-util-from-markdown` allows you to parse markdown into a markdown abstract syntaxt tree.
-* 🦸🏻‍♂️ [supabase](https://github.com/rowtype-yoga/purescript-supabase) Purescript FFI bindings for [`supabase`](https://supabase.com/).
-* ⊗ [yjs](https://github.com/rowtype-yoga/purescript-yjs) Purescript FFI bindings for [`yjs`](https://docs.yjs.dev)
+* 🦸🏻‍♂️ [supabase](https://github.com/rowtype-yoga/purescript-supabase) - Purescript FFI bindings for [`supabase`](https://supabase.com/).
+* ⊗ [yjs](https://github.com/rowtype-yoga/purescript-yjs) - Purescript FFI bindings for [`yjs`](https://docs.yjs.dev)
 
 ## Apps
 * 🤖 [royo](https://github.com/rowtype-yoga/royo) - Our PureScript compile bot for Discord
