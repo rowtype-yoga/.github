@@ -18,6 +18,7 @@ Just write us on the [PureScript Discord Chat](https://purescript.org/chat).
 * 🧟‍♂️ [yoga-variation](https://github.com/rowtype-yoga/purescript-yoga-variation) - Variant? Validation? Why not both? This lib combines [`variant`](https://github.com/natefaubion/purescript-variant) and [`validation`](https://github.com/purescript/purescript-validation)
 * 💍 [untagged-union](https://github.com/rowtype-yoga/purescript-untagged-union) - A data type for untagged unions
 * 👰🏽‍♀️ [untagged-to-tagged](https://github.com/rowtype-yoga/purescript-untagged-to-tagged) - Convert between tagged and untagged unions
+* 🔒 [vault](https://github.com/rowtype-yoga/purescript-vault) - A typed, persistent store for values of arbitrary types. This is a port of the Haskell [Vault](https://github.com/HeinrichApfelmus/vault) library by Heinrich Apfelmus.
 
 ## Util
 * 🦥 [lazy-joe](https://github.com/rowtype-yoga/purescript-lazy-joe) - Purescript ffi for the lazy joe
@@ -42,6 +43,7 @@ We extensively use react and created a couple of libraries to make PureScript wo
 * 🐙 [octokit](https://github.com/rowtype-yoga/purescript-octokit) - Purescript FFI bindings for Github's [`octokit.js`](https://github.com/octokit/octokit.js)
 * 📄 [mdast-util-from-markdown](https://github.com/rowtype-yoga/purescript-mdast-util-from-markdown) - Purescript wrapper for [`mdast-util-from-markdown`](https://github.com/syntax-tree/mdast-util-from-markdown). `mdast-util-from-markdown` allows you to parse markdown into a markdown abstract syntaxt tree.
 * 🦸🏻‍♂️ [supabase](https://github.com/rowtype-yoga/purescript-supabase) Purescript FFI bindings for [`supabase`](https://supabase.com/).
+* ⊗ [yjs](https://github.com/rowtype-yoga/purescript-yjs) Purescript FFI bindings for [`yjs`](https://docs.yjs.dev)
 
 ## Apps
 * 🤖 [royo](https://github.com/rowtype-yoga/royo) - Our PureScript compile bot for Discord
