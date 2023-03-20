@@ -36,18 +36,18 @@ We extensively use react and created a couple of libraries to make PureScript wo
 * 💅🏽 [nextui](https://github.com/rowtype-yoga/purescript-nextui) - PureScript FFI bindings for [NextUI](https://nextui.org/)
 * 📄 [react-markdown](https://github.com/rowtype-yoga/purescript-react-markdown) - PureScript FFI bindings for [`react-markdown`](https://github.com/remarkjs/react-markdown). Allows you to render text written in Markdown.
 
+## UI
+* 🛟 [floating-ui](https://github.com/rowtype-yoga/purescript-floating-ui) - Purescript FFI bindings for [floating ui](https://floating-ui.com/).
+* 🎨 [uniqolor](https://github.com/rowtype-yoga/purescript-uniqolor) - Purescript FFI bindings for [uniqolor](https://github.com/dastoori/uniqolor).
+
 ## (Collaborative) editing
 * ⊗ [yjs](https://github.com/rowtype-yoga/purescript-yjs) - Purescript FFI bindings for [`yjs`](https://docs.yjs.dev)
 * [y-indexeddb](https://github.com/rowtype-yoga/purescript-y-indexeddb) - Purescript FFI bindings for [`y-indexeddb`](https://docs.yjs.dev)
-* [tiptap](https://github.com/rowtype-yoga/purescript-tiptap) - Purescript FFI bindings for [tiptap](https://tiptap.dev/).
+* 🚰 [tiptap](https://github.com/rowtype-yoga/purescript-tiptap) - Purescript FFI bindings for [tiptap](https://tiptap.dev/).
 
 ## Databases
 * 💾 [yoga-postgres](https://github.com/rowtype-yoga/purescript-yoga-postgres) - `node-postgres` FFI bindings, originally forked from [`purescript-node-postgres`](https://github.com/epost/purescript-node-postgres)
 * 🦸🏻‍♂️ [supabase](https://github.com/rowtype-yoga/purescript-supabase) - Purescript FFI bindings for [`supabase`](https://supabase.com/).
-
-## UI
-* [floating-ui](https://github.com/rowtype-yoga/purescript-floating-ui) - Purescript FFI bindings for [floating ui](https://floating-ui.com/).
-* [uniqolor](https://github.com/rowtype-yoga/purescript-uniqolor) - Purescript FFI bindings for [uniqolor](https://github.com/dastoori/uniqolor).
 
 ## Other FFI-bindings
 * 🐙 [octokit](https://github.com/rowtype-yoga/purescript-octokit) - Purescript FFI bindings for Github's [`octokit.js`](https://github.com/octokit/octokit.js)
