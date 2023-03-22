@@ -9,7 +9,6 @@ Just write us on the [PureScript Discord Chat](https://purescript.org/chat).
 * 💌 [fetch](https://github.com/rowtype-yoga/purescript-fetch) - A minimalist library for using fetch (aka browser http client) in PureScript
 * 👔 [yoga-json](https://github.com/rowtype-yoga/purescript-yoga-json) - An easy-to-use yet powerful JSON de-/serialisation library. Originally forked from [`simple-json`](https://github.com/justinwoo/purescript-simple-json) with a lot of new additions
 * 🐝 [web-proletarian](https://github.com/rowtype-yoga/purescript-web-proletarian) - Small bindings and instructions how to use web-workers in PureScript with modern bundlers
-* 🧮 [js-bigints](https://github.com/rowtype-yoga/purescript-js-bigints) - FFI bindings for native `BigInt`
 
 ## Data types
 * 📀 [record-studio](https://github.com/rowtype-yoga/purescript-record-studio) - Working with records made easy
