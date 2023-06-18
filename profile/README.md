@@ -1,6 +1,6 @@
 # Rowtype Yoga 🧘🏽‍♂️🧘‍♀️🧘🏿
 
-Open anarcho type-level collective. We develop clean, typesafe and simple libraries for PureScript.
+Open anarchic (anarkhia, meaning "without a ruler") code collective. We develop libraries for PureScript.
 
 Anybody can join us. Especially library maintainers. As a collective we distribute the maintenance burden among each other.
 Just write us on the [PureScript Discord Chat](https://purescript.org/chat).
