@@ -1,4 +1,4 @@
-# Rowtype Yoga 🧘🏽‍♂️🧘‍♀️🧘🏿
+# Rowtype Yoga 《ミ》
 
 Open anarchic (anarkhia, meaning "without a ruler") code collective. We develop libraries for PureScript.
 
