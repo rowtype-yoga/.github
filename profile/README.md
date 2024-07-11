@@ -26,6 +26,7 @@ Just write us on the [PureScript Discord Chat](https://purescript.org/chat).
 * 📥 [parsing-dataview](https://github.com/rowtype-yoga/purescript-parsing-dataview) - Parse input binary `ArrayBuffer`. Inverse of [arraybuffer-builder](https://github.com/rowtype-yoga/purescript-arraybuffer-builder).
 * 📤 [arraybuffer-builder](https://github.com/rowtype-yoga/purescript-arraybuffer-builder) - Build output binary `ArrayBuffer`. Inverse of [parsing-dataview](https://github.com/rowtype-yoga/purescript-parsing-dataview).
 * 🦾 [fallback](https://github.com/rowtype-yoga/purescript-fallback) - Idris-style fallback for do comprehensions.
+* 🌠 [purs-eval](https://github.com/rowtype-yoga/purs-eval) - A simple PureScript expression evaluation tool.
 
 ## React
 We extensively use react and created a couple of libraries to make PureScript work with react:
