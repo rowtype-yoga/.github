@@ -23,6 +23,7 @@ Just write us on the [PureScript Discord Chat](https://purescript.org/chat).
 
 ## Util
 * 🦥 [lazy-joe](https://github.com/rowtype-yoga/purescript-lazy-joe) - Purescript ffi for the lazy joe
+* 💝 [protobuf](https://github.com/rowtype-yoga/purescript-protobuf) Google Protocol Buffers code generator and runtime.
 * 📥 [parsing-dataview](https://github.com/rowtype-yoga/purescript-parsing-dataview) - Parse input binary `ArrayBuffer`. Inverse of [arraybuffer-builder](https://github.com/rowtype-yoga/purescript-arraybuffer-builder).
 * 📤 [arraybuffer-builder](https://github.com/rowtype-yoga/purescript-arraybuffer-builder) - Build output binary `ArrayBuffer`. Inverse of [parsing-dataview](https://github.com/rowtype-yoga/purescript-parsing-dataview).
 * 🦾 [fallback](https://github.com/rowtype-yoga/purescript-fallback) - Idris-style fallback for do comprehensions.
