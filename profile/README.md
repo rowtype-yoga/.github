@@ -3,7 +3,7 @@
 Open anarchic (anarkhia, meaning "without a ruler") code collective. We develop libraries for PureScript.
 
 Anybody can join us. Especially library maintainers. As a collective we distribute the maintenance burden among each other.
-Just write us on the [PureScript Discord Chat](https://purescript.org/chat).
+Just write us on the [PureScript Discord Chat](https://purescript.org/chat) or open a [Discussion](https://github.com/orgs/rowtype-yoga/discussions).
 
 ## Web
 * 💌 [fetch](https://github.com/rowtype-yoga/purescript-fetch) - A minimalist library for using fetch (aka browser http client) in PureScript
