@@ -21,7 +21,7 @@ Just write us on the [PureScript Discord Chat](https://purescript.org/chat) or o
 * 👰🏽‍♀️ [untagged-to-tagged](https://github.com/rowtype-yoga/purescript-untagged-to-tagged) - Convert between tagged and untagged unions
 * 🔑 [vault](https://github.com/rowtype-yoga/purescript-vault) - A typed, persistent store for values of arbitrary types. This is a port of the Haskell [Vault](https://github.com/HeinrichApfelmus/vault) library by Heinrich Apfelmus.
 * ❄️ [unique](https://github.com/rowtype-yoga/purescript-unique) - Abstract unique objects
-* 🔦 [unique](https://github.com/rowtype-yoga/typeapp) - A minimal helper library for ergonomic type applications in PureScript.
+* 🔦 [typeapp](https://github.com/rowtype-yoga/typeapp) - A minimal helper library for ergonomic type applications in PureScript.
 
 ## Util
 * 🦥 [lazy-joe](https://github.com/rowtype-yoga/purescript-lazy-joe) - Purescript ffi for the lazy joe
